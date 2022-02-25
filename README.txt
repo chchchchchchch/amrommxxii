@@ -1,12 +1,12 @@
 --------------------------------------------------------------------------
  ABOUT THIS REPOSITORY
 ==========================================================================
-Graphic Design for AMRO 2022 (-> www.radical-openness.org)
+Graphic Design for AMRO 22 (-> www.radical-openness.org)
 
-MMXXII =
-M+M+X+X+I+I =
-1000+1000+10+10+1+1 =
-2022
+XXII =
+X+X+I+I =
+10+10+1+1 =
+22
 
 
 
