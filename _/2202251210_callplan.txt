@@ -1,0 +1,39 @@
+OPEN CALL PLANNING
+
+AMRO22
+Art Meets Radical Openness – DEBUG
+15th–18th June 2022
+afo – architekturforum oberosterreich, STWST, Kunstuniversität Linz
+
+ →→→→  →→→→→ →→→→  →   →  →→→→ 
+|  → \| →→→→| →→ )| | | |/ →→→|
+| | | |  →| |  → \| | | | |  → 
+| |→| | |→→→| |→) ◕ |→| | |→| |
+|→→→→/|→→→→→|→→→→/ \→→→/ \→→→→|
+DƎBUG DƎBUG DƎBUG DƎBUG DƎBUG
+ART MEETS RADICAL OPENNESS 2022
+
+15th–18th June 2022
+afo – architekturforum oberosterreich
+Stadtwerkstatt
+Kunstuniversität Linz
+
+https://github.com/ertdfgcvb/play.core
+https://play.ertdfgcvb.xyz/#/src/sdf/balls
+
+
+BRAINSTORMING 'CALL FOR PAPERS'
+
+- microsite at https://radical-openness.org/call
+  stays there until next years, migrates to https://radical-openness.org/2021/call
+  - brutalism with a little twist (?)
+    -> text only, colors(?), a html page that is completely 'self-contained', no external dependencies -> can be copied/distributed as one file, works as 'source' and 'display', is portable
+  - responsive in a interesting way
+  - no problem that it is temporary (may be adjusted after main visual identity, not necessarily)
+
+- ❤️ dsignweek.servus.at
+
+use https://texteditor.com/font-converter for one letter
+-> even if the character can not be displayed something
+   like this happens D█BUG
+- DƎBUG ɓnqǝp dǝbug 𝔡𝔢𝔟𝔲𝔤 d𝔢bug 
