@@ -36,4 +36,35 @@ BRAINSTORMING 'CALL FOR PAPERS'
 use https://texteditor.com/font-converter for one letter
 -> even if the character can not be displayed something
    like this happens D█BUG
-- DƎBUG ɓnqǝp dǝbug 𝔡𝔢𝔟𝔲𝔤 d𝔢bug 
+- DƎBUG ɓnqǝp dǝbug 𝔡𝔢𝔟𝔲𝔤 d𝔢bug
+
+----
+
+[09:57] christoph: https://etherpad.servus.at/p/AMRO_design_workshop
+[10:04] christoph: DƎBUG ɓnqǝp dǝbug 𝔡𝔢𝔟𝔲𝔤 d𝔢bug
+[10:04] christoph: http://m.nettime.org/Lists-Archives/nettime-ann-0601/msg00021.html
+[10:06] christoph: https://texteditor.com/font-converter/
+[10:07] christoph: https://freeze.sh/_/2016/arrows/
+[10:07] christoph: ← 	↑ 	→ 	↓ 	↔ 	↕ 	↖ 	↗ 	↘ 	↙ 	↚ 	↛ 	↜ 	↝ 	↞ 	↟
+[10:09] christoph: https://freeze.sh/_/2016/U/
+[10:15] Juan: https://k4.servus.at/s/pRjbWfaN6KkyMiB
+[10:23] Welcome to AMRO graphics!For help on using BigBlueButton see these (short) tutorial videos.To join the audio bridge click the phone button.  Use a headset to avoid causing background noise for others.This server is running BigBlueButton.
+[10:33] christoph: connection is really bad :(
+[10:37] christoph: https://etherpad.servus.at/p/amro_opencall_dev
+[10:45] christoph: ╺┳┓┏━╸┏┓ ╻ ╻┏━╸
+ ┃┃┣╸ ┣┻┓┃ ┃┃╺┓
+╺┻┛┗━╸┗━┛┗━┛┗━┛
+[10:45] christoph: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+//////// \\///////// \//////// \\/// \\/// \\/////// \\
+/// \\/// \/// \\\\\\\/// \\/// \/// \\/// \/// \\/// \
+/// \\/// \/////// \\\//////// \\/// \\/// \/// \\\\\\\
+/// \\/// \/// \\\\\\\/// \\/// \/// \\/// \/// \\/// \
+//////// \\///////// \//////// \\\/////// \\\//////// \
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\/// \
+[11:06] juanpablo: https://play.ertdfgcvb.xyz/#/src/sdf/balls
+[11:09] christoph: https://prideout.net/blog/streamlines/quiver.png
+[11:21] christoph: github.com/chchchchchchch
+[11:22] juanpablo: https://github.com/voidibby
+
+
+
