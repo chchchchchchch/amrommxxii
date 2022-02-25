@@ -1,0 +1,264 @@
+WORKSHOP PLANNING
+
+02.03.2022
+==========
+
+11:00 - 13:00
+-------------
+
+References? Best Practises?
+
+- AMRO
+
+
+- make art
+  https://archive.bleu255.com/makeart/main/
+- Libre Graphics Meeting
+  https://www.forkable.eu/generators/r+w/o/__/SEEME
+  https://forkable.eu/generators/r+w/Q&A
+
+Presentation + Discussion
+Preparation: Participants! Bring/Research Examples!
+
+
+14:00 - 17:00
+-------------
+
+Revisiting AMRO Sources.
+Things created. Where to find. Howto what why.
+
+  https://www.forkable.eu/generators/swaperex
+  https://www.forkable.eu/generators/amroxiv
+  https://gitlab.com/chch/amroxvi
+  https://gitlab.com/chch/amroxviii
+  https://gitlab.com/chch/servusxviii
+  
+  https://lafkon.net/exchange/servus/amro2020
+
+Technical: inkscape(+scribus)
+
+Technical: git as a design workflow.
+- source code management/version control
+- plain text
+- versioning
+- collaboration
+- personal practise (*.svg,*.remote,utils/*.*)
+
+Technical: resources (e.g. fonts)
+- https://fontain.org/
+- http://www.peter-wiegel.de/
+
+
+Briefing DEBUG.
+What do we need? What do we want? 
+
+- visual identity. Why? How?
+- graphic vocabulary/toolbox
+- Material?
+  - on-site
+  - on-line
+
+Brainstorming DEBUG.
+
+- AMRO 22 Theme
+  https://k4.servus.at/s/qM9TiJxpxM8zcBt
+- https://en.wikipedia.org/wiki/Debugging
+- https://de.wikipedia.org/wiki/Bug_(Schiffbau) 
+
+
+
+03.03.2022
+==========
+
+
+10:00 - 13:00
+-------------
+
+Ideas. Discussion. Selection.
+
+
+
+
+14:00 - 17:00
+-------------
+
+Wrapping Up.
+
+
+
+
+
+
+
+--------
+
+Open Call Design        -> Juan & Christoph 1 hour call this week
+    
+Workshop: 
+March 2nd 11:00-17:00 + eventually evening team+vorstand update and feedback round 18:00-20:00
+March 3rd 10:00-17:00
+  
+AMRO community participates when they have time:
+Christoph & Juan + Onur, Gabriela, Sofia, Giacomo (+ ...?). 
+Additional invitation to participation
+
+
+INITIAL QUESTIONS
+* What will we create together? the festival image or the formats where that image ends up being? a vocabulary and workflow for the festival design
+* after the workshop: who will pulls the strings of the design and make sure it is applied in the different places (website & prints, but also Social media & video...) and can take decisions about that? Juan, Christoph stays a bit available (?)
+* how many people do you think should take place at the first part? amro core people
+* when can the process take place? March 2nd & 3rd
+
+IDEA:
+extend the sd*w / AMRO workshop idea into opening of the AMRO design project
+2 days -> from brainstorm to visual theme
+motivation and scope
+"better handing over of the design"
+basics of print production
+worflow: inkscape -> scribus -> to printer
+git repos
+logos and further materials
+
+Goal -> GRAPHIC VOCABULARY for AMRO22
+example: Social bots conference (https://research.radical-openness.org/2017/wp-content/uploads/sites/3/2017/02/170210_Site-Banner.png)
+generative part
+reused as a sampling library for the identity.
+Pool of reusable materials
+https://freeze.sh/_/2017/socialbots/o/0
+
+AMRO design:
+    + Inkscape 
+    + small scripts to extract svg files
+    + no as book production
+    + drawing **
+
+how to export PDF-x conform files for the printer
+java-inkscape connections P2W things
+
+
+**JUAN questions from the train**
+What would be the starting point for developing the concept?
+Or do we expect the graphical identity to be developed throught the workshop?
+What do we expect to be the outcome of the workshop?
+the development of a Vocabulary / Language to use in the production of graphics
+
+Workshop Workflow
+2 days graphic design software workshop
+then, some ppl work on amro's design
+
+- workshop call to AMRO close community
+- reading the AMRO text (pre) & bring ideas.
+- design thinking (development the vocabulary)
+- scribbles
+- iterative & fast approach
+- No design grid
+
+not festival design team, focus on visual identity;
+involving people that are part of AMRO festival team / community.
+
+* design does not end when you send it to the printer
+* design team embedded within AMRO production
+
+* subject, inspiration for the visual identity
+* all what is done in the workshop is flexible enough to derive the different formats.
+
+* ideas for production
+** more integral 
+** was generative
+** was not a simple offset
+
+also potential open up HOW does the production happens, from costs to production place
+
+post-workshop Design Team
+steady design team for the production
+
+IDEEN
+
+- file as container. portable/self-contained website (may be copied, works on the waybackmachine, open/ready for decentralisation), no external dependencies, small file size, clean/structured source, reduction. mixture of ascii brutalism and celebration of the source file. open/readable. writing for humans AND machines.
+   - digital brutalism ??
+     - http://cramer.pleintekst.nl
+     - https://www.forkable.eu
+     - https://bleu255.com
+   - inline svg/css ??
+   - play with possibilities of formats (html)
+- concept skin/skeleton (skin/bones): the structure beneath is not hidden accessible sensible (https://vaping-networks.radical-openness.org). relates to file as container.
+
+- design as a language.
+  language as a virus (copy me!).
+  create vocabulary that can be used and spread.
+  https://freeze.sh/_/2017/socialbots
+  https://freeze.sh/_/2018/amroui
+
+- two colors
+
+
+***
+
+ADDITIONAL: DEBUG OPEN CALL FLYER
+ex no *css* flyer, ASCII art (?)
+http://m.nettime.org/Lists-Archives/nettime-ann-0601/msg00021.html
+
+***
+
+ADDITIONAL AMRO PLATFORM RESTRUCTURE TOPIC
+
+NEUTRAL DESIGN
+Generic design but that still people can remember across editions?
+
+- 'freeze' cms pages
+- add small 'badge' referring to current edition
+
+
+***
+
+https://radical-openness.org/en
+https://research.radical-openness.org/
+
+https://research.radical-openness.org/2015/
+https://research.radical-openness.org/2017/
+https://research.radical-openness.org/2019/
+
+https://vaping-networks.radical-openness.org/
+
+https://cwc.radical-openness.org/
+https://cwc.radical-openness.org/siliconfriendcamp/
+
+---
+
+Microsites as sensed way of structuring content.
+
+---
+
+BRAINSTORMING 'CALL FOR PAPERS'
+
+- microsite at https://radical-openness.org/call
+  stays there until next years, migrates to https://radical-openness.org/2021/call
+  - brutalism with a little twist (?)
+    -> text only, colors(?), a html page that is completely 'self-contained', no external dependencies -> can be copied/distributed as one file, works as 'source' and 'display', is portable
+  - responsive in a interesting way
+  - no problem that it is temporary (may be adjusted after main visual identity, not necessarily)
+
+- ❤️ dsignweek.servus.at
+
+use https://texteditor.com/font-converter for one letter
+-> even if the character can not be displayed something
+   like this happens D█BUG
+- DƎBUG ɓnqǝp dǝbug 𝔡𝔢𝔟𝔲𝔤 d𝔢bug 
+
+
+TODO:
+
+- setup git repository
+ - create call (depending on what it will be)
+ - 
+- EINPACKEN
+ - Print Referenzen (in-between design, Libre Graphics Meeting)
+ - Maus
+- KLÄREN
+ - Rechner vor Ort?
+
+----
+
+
+
+
