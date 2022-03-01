@@ -1,0 +1,116 @@
+W O R K S H O P   G R A P H I C   D E S I G N   A M R O  2 0 2 2
+========================================================================
+DAY 1 (02.03.2022)
+========================================================================
+------------------------------------------------------------------------
+11:00 - 13:00
+------------------------------------------------------------------------
+References?
+Best Practises?
+...............
+
+- make art
+  https://archive.bleu255.com/makeart/main
+  https://www.forkable.eu/generators/wtf/o/non-free/SEEME
+  https://www.forkable.eu/generators/chmod+x/o/non-free/nl/SEEME
+  https://www.forkable.eu/generators/i-bd/o/non-free/fr/A3/recto/SEEME
+- Libre Graphics Meeting
+  https://www.forkable.eu/generators/r+w/o/__/SEEME
+  https://forkable.eu/generators/r+w/Q&A
+- AMRO
+  https://www.forkable.eu/generators/dit/SEEME
+  https://www.forkable.eu/generators/amroxiv/o/non-free/pdf/SEEME
+  https://freeze.sh/_/2016/wasted
+  https://freeze.sh/_/2010/liwoli
+  https://www.forkable.eu/generators/swaperex/SEEME
+  https://freeze.sh/_/2017/socialbots
+  https://freeze.sh/_/2018/amroui
+
+  https://www.forkable.eu/generators
+  https://lafkon.net/exchange/servus
+
+Presentation + Discussion
+.........................
+-
+-
+-
+
+------------------------------------------------------------------------
+14:00 - 17:00
+------------------------------------------------------------------------
+Revisiting AMRO Sources.
+Things created. Where to find. Howto what why.
+..............................................
+
+https://www.forkable.eu/generators/swaperex
+https://www.forkable.eu/generators/amroxiv
+https://gitlab.com/chch/amroxvi
+https://gitlab.com/chch/amroxviii
+https://gitlab.com/chch/servusxviii
+
+Technical: git as a design workflow (?)
+- work in the 'open'
+- source code management/version control
+- plain text
+- versioning
+- collaboration
+- personal practise (*.svg,*.remote,utils/*.*)
+
+Technical: inkscape (+scribus)
+- ❤️
+- plain text
+- bash 
+- https://freeze.sh/_/2017/socialbots
+
+
+Briefing DƎBUG.
+What do we need? What do we want? 
+.................................
+
+- visual identity. Why? How?
+- graphic vocabulary/toolbox
+- Material?
+- on-site
+- on-line
+ 
+Brainstorming DƎBUG.
+....................
+
+- AMRO 2022 Theme
+  https://k4.servus.at/s/qM9TiJxpxM8zcBt
+- https://en.wikipedia.org/wiki/Debugging
+
+
+
+========================================================================
+DAY  2 (03.03.2022)
+========================================================================
+
+------------------------------------------------------------------------
+10:00 - 13:00
+------------------------------------------------------------------------
+Ideas. Discussion. Selection.
+.............................
+-
+-
+-
+
+------------------------------------------------------------------------
+14:00 - 17:00
+------------------------------------------------------------------------
+Wrapping Up.
+............
+-
+-
+-
+
+
+
+========================================================================
+RESOURCES ???
+========================================================================
+
+https://www.labelident.com/papier-etiketten-auf-bogen-farbig.html
+https://zega-labels.de/Laserboegen__farbig
+
+
