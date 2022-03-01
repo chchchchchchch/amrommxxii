@@ -61,7 +61,9 @@ Technical: inkscape (+scribus)
 - plain text
 - bash 
 - https://freeze.sh/_/2017/socialbots
-
+- https://freeze.sh/_/2021/ioko/ponieovim
+  https://gitlab.com/chch/bits/-/blob/master/2021/ioko/210712_Ponish-R+_XX_XX_XX_XX_.svg
+  https://gitlab.com/chch/kombo/-/tree/ioko
 
 Briefing DƎBUG.
 What do we need? What do we want? 
