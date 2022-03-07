@@ -1,0 +1,113 @@
+
+AMRO OVERVIEW WEBSITE IDEA through https://yourls.org/
+
+git repo:
+https://github.com/chchchchchchch/amroxxii
+
+
+# CREATE SVG FILE (2203031017_xpmtesting.svg)
+inkscape --export-png=tmp.png --export-background=ffffffff 2203031017_xpmtesting.svg
+For newer version of Inkscape:
+inkscape --export-type="svg" temp.png
+
+# CONVERT THE EXPORTED PNG TO XPIXMAP FORMAT (https://en.wikipedia.org/wiki/X_PixMap)
+convert tmp.png -resize 32 tmp.xpm
+Newer version:
+magick tmp.png -resize 32 tmp.xpm
+
+# DISPLAY
+cat tmp.xpm
+
+# USE SED TO REPLACE CHARACTERS
+cat tmp.xpm | sed 's/&/-/g'
+
+# USE REV TO MIRROR HORIZONTALLY (=REVERSE LINES)
+cat tmp.xpm | sed 's/&/./g' | rev
+
+# USE TAC TO MIRROR VERTICALLY
+cat tmp.xpm | sed 's/&/./g' | tac
+
+# MAN(UAL) PAGES
+man rev
+man tac
+
+# PRINT A 32 CHAR LINE
+printf ".%.0s" {1..32}
+
+# PRINT A 32x10 CHAR GRID
+for L in `seq 1 10`;do echo `printf ".%.0s" {1..32}`;done
+
+# PRINT A 32x10 CHAR GRID AND REPLACE 4-CHARD (xxxx) WITH SOMETHING (.-.-)
+for L in `seq 1 10`;do echo `printf "x%.0s" {1..32} | sed 's/xxxx/.-.-/g'`;done
+
+# DELETE EVERY SECOND CHARACTER
+sed 's/\(.\)\(.\)/\1/g'
+
+
+# FONT RESOURCES (F/L/O/S LICENSED)
+https://github.com/google/fonts
+http://osp.kitchen/foundry
+https://fontain.org
+- https://fontain.org/osifont
+- https://fontain.org/libre-caslon
+- https://fontain.org/standard-graf
+https://usemodify.com
+http://www.catfonts.de/Fonts/index.html
+http://www.peter-wiegel.de/fonts2.html
+
+
+https://github.com/ManufacturaInd/tinytypetools/tree/master/transpacing
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~   ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~  ~   ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~   ~~~~~~~~~~~~
+~~~~~~~~~~~~~ ~~~~   ~~~~~~~~~~~
+~~~~~~~~~~~~    ~~~~ ~~~~~~~~~~~
+~~~~~~~~~~~~~~    ~~~ ~~~~~~~~~~
+~~~~~~~~~~~~~~~~     ~~~~~~~~~~~
+~~~~~~~~~~~~~ ~~~~   ~~~~~~~~~~~
+~~~~~~~~~~~~~~ ~~~~~   ~~~~~~~~~
+~~~~~~~~~~~~~~~ ~~~~~~   ~~~~~~~
+~~~~~~~~~~~~      ~~~~~~   ~~~~~
+~~~~~~~~~~~~~~~~    ~~~~~~   ~~~
+~~~~~~~~~~~~~~~~~~   ~~~~~~~  ~~
+~~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~
+~~~~~~~~~~~~~ ~~~~~~~ ~~~~~~~~~~
+~~~~~~~~~~~~    ~~~  ~~~~~~~~~~~
+~~~~~~~~~~~~~    ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~ ~~    ~~~~~~~~~~~~~
+~~~~~~~~~~~~ ~~~~    ~~~~~~~~~~~
+~~~~~~~~~~~~  ~~~~     ~~~~~~~~~
+~~~~~~~~~~~~~   ~~~~~    ~~~~~~~
+~~~~~~~~~~~~~~    ~~~~~~   ~~~~~
+~~~~~~~~~~~~~~~~      ~~~~    ~~
+~~~~~~~~~~~~    ~~~~ ~~~~~~~  ~~
+~~~~~~~~~~~~~~~   ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~ ~~~   ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~   ~~~~~~~~~~
+~~~~~~~~~~~~    ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~    ~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~    ~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~
+~~~~ ~ ~~~~~~~ ~~~~~~~~~~~~~~~~~
+~~~~ ~~~ ~~~~  ~ ~~~~~~~~~~~~~~~
+~~~~   ~~~~~      ~~~~~~~~~~~~~~
+~~~~~~   ~~~~~~~~   ~~~~~~~~~~~~
+~~~~~~~~     ~~~~~~  ~~~~~~~~~~~
+~~~~~~~~~~~    ~~~~~  ~~~~~~~~~~
+~~~~~~~~~~~~~    ~~~~ ~~~~~~~~~~
+~~~~~~~~~~~~~~~     ~ ~~~~~~~~~~
+~~~~~~~~~~~~~~ ~~~   ~~~~~~~~~~~
+~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
